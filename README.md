@@ -3,5 +3,5 @@ A stealth-adventure game developed by Pending Studios. It is a game that is set 
 
 This game was made in completion of our Capstone subject in the University of the East Manila.
 
-##Unity Version
+## Unity Version
 2022.3.9f1
